@@ -1,7 +1,7 @@
 # CRUD_Application_Node
 In this project, we are going to create node CRUD application with express and mongodb.
 
--Dosapati Jayantj, IIT  Bombay
+-Dosapati Jayanth, IIT  Bombay
 
 #### To Run this project Clone it and install modules using
 ```
